@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gallery</string>
+    <string name="next">Import Image \n From Existing</string>
+</resources>
